@@ -1,1 +1,1 @@
-# birzeit-eda
+### **SESSION 1.1**: DATA CLEANING AND REMOVING OUTLIERS
